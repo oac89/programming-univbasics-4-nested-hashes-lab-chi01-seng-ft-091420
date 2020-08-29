@@ -57,7 +57,7 @@ end
        },
        :dennis_ritchie => {
          :known_for => "Unix",
-         :languages => ["C"]
+         :languages => "C"
        }
  		}
   p programmer_hash[:dennis_ritchie][:languages]
