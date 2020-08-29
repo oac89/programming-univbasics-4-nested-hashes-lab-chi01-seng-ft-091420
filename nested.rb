@@ -60,7 +60,7 @@ end
          :languages => ["C"]
        }
  		}
-  return [dennis_ritchies_language]["C"]
+  return [:languages]["C"]
   
  end
    
