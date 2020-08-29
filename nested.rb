@@ -60,7 +60,7 @@ end
          :languages => ["C"]
        }
  		}
-  puts [:languages]["C"]
+  puts programmer_hash[:dennis_ritchie]["C"]
   
  end
    
